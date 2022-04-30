@@ -67,7 +67,6 @@ endmodule
 ### Truth Table:
 ![haddtable](https://user-images.githubusercontent.com/93427278/165533706-7fd73b06-99f5-4c8b-aae4-652837647db8.png)
 ### Timing Diagram:
-![htiming](https://user-images.githubusercontent.com/93427278/165533752-b256ce09-6ae1-4898-996b-14d88bbcce35.png)
 ![c1597107-f26d-4001-945a-f41618595ece](https://user-images.githubusercontent.com/93427278/166093401-cd808c39-b4cf-4e96-98de-fa91a71aa81e.jpg)
 
 ## FULL ADDER:
@@ -78,7 +77,6 @@ endmodule
 ### Truth Table:
 ![faddtable](https://user-images.githubusercontent.com/93427278/165534055-e17f1728-6de9-4886-aac8-9ebf640e4810.png)
 ### Timing Diagram:
-![ftiming](https://user-images.githubusercontent.com/93427278/165534121-a7f3e1ec-076e-449f-b77b-9edb38ab334f.png)
 ![9f7b84db-e89c-4a76-ab9e-329b24989f37](https://user-images.githubusercontent.com/93427278/166093414-d84b977b-13ec-4ad4-9696-d1ad783e2f10.jpg)
 
 ### Result:
